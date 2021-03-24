@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Young's Resume
 ---
 # Cam Miller
-Senior at BYU-Idaho majoring in Data Science with a minor in Statistics change
+Senior at BYU-Idaho majoring in Data Science with a minor in Statistics 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
