@@ -3,7 +3,7 @@ layout: cv
 title: Brigham Young's Resume
 ---
 # Cam Miller
-Senior at BYU-Idaho majoring in Data Science with a minor in Statistics. I like dogs. 
+Senior at BYU-Idaho majoring in Data Science with a minor in Statistics. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,15 +16,10 @@ Senior at BYU-Idaho majoring in Data Science with a minor in Statistics. I like 
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Jan 2017 - Dec 2021`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 3.34 Major GPA
 
 
 ## Related Experience
