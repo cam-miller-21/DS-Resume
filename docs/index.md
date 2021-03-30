@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: My Resume
 ---
 # Cam Miller
 
