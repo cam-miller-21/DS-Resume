@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: My Resume
 ---
 # Cam Miller
-Senior at BYU-Idaho majoring in Data Science with a minor in Statistics. 
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -21,60 +21,34 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 - 3.34 Major GPA
 
+## Relevant Skills
+- Math 325 Intermediate Statistics (__R__)  
+- Math 335 Data Wrangling and Visualization (__R__)  
+- Math 425 Linear Regression (__R__) 
+- CSE 110 & 111 & 250 (__Python__)
+- CIT 111 (__SQL__)
+- BA 215 Spreadsheet Analysis (__Excel__)
+- BA 315 (__Power BI & Tablaeu__)
+- Other Relevance: __Shiny__
 
-## Related Experience
+## Data Science Society
+__Data Science President__, Present
 
-### Internships
+`January 2020 - March 2021`
+__Madison Fire Department__, Project Manager
+- Worked with the Madison Fire Department to map out fire hydrants in Rexburg, Rigby, and St Anthony 
+- Working with this project I learned how to use Leaflet to map out the fire hydrants, and Shiny to turn it into a app and make interactive.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## Other Work Experience
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`December 2018 - March 2020`
+__Progrexion__
+- Worked as a credit consultant, making outgoing calls and helping people transition to a credit repair agent in closing the sale. While working there I developed social skills in a sales setting, creating a relationship with the client in passing them off to the sales agent
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`March 2020`
+__Straight Line Yard Care__
+- Using excel I helped a local business keep track of vehicle maintenance and give alerts as to when repairs and such needed to be made.
 
 
 <!-- ### Footer
