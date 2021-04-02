@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: My Resume
+title: Cam Miller Resume
 ---
 # Cam Miller
  
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mil16013@byui.edu">mil16013@byui.edu</a>
+| <a href="https://www.linkedin.com/in/cam-miller-9158031a3/">LinkedIn</a>
+| <a href="https://github.com/cam-miller-21/Miller-Resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,13 +16,16 @@ title: My Resume
 ## Education
 
 `Jan 2017 - Dec 2021`
+
 __Brigham Young University Idaho__, Rexburg, ID
 
 ## Relevant Data Analysis Courses
 Intermediate Statistics (__R__), Data Wrangling and Visualization (__R__), Linear Regression (__R__), (__Python__), (__SQL__), Spreadsheet Analysis (__Excel__), Business Analytics (__Power BI & Tableau__).
 
 ## Related Experience
-__BYU Idaho Data Science President__, Jan 2021 – Apr 2021
+__BYU Idaho Data Science President__
+
+`Jan 2021 – Apr 2021`
 
 - My purpose was to manage the project managers, making sure that they would be making progress in providing deliverables of what the clients wanted.
 
