@@ -17,7 +17,9 @@ title: Cam Miller Resume
 
 `Jan 2017 - Dec 2021`
 
-__Brigham Young University Idaho__, Rexburg, ID
+__Brigham Young University Idaho__
+
+ Rexburg, ID
 
 ## Relevant Data Analysis Courses
 Intermediate Statistics (__R__), Data Wrangling and Visualization (__R__), Linear Regression (__R__), (__Python__), (__SQL__), Spreadsheet Analysis (__Excel__), Business Analytics (__Power BI & Tableau__).
