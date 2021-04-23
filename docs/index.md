@@ -22,7 +22,7 @@ __Brigham Young University Idaho__
  Rexburg, ID
 
 ## Relevant Data Analysis Courses
-Intermediate Statistics (__R__), Data Wrangling and Visualization (__R__), Linear Regression (__R__), (__Python__), (__SQL__), Spreadsheet Analysis (__Excel__), Business Analytics (__Power BI & Tableau__).
+Intermediate Statistics (__R__), Data Wrangling and Visualization (__R__), Linear Regression (__R__), (__Python__), (__SQL__), Spreadsheet Analysis (__Excel__), Business Analytics (__Power BI & Tableau__), Machine Learning & Data Mining
 
 ## Related Experience
 __BYU Idaho Data Science President__
@@ -44,6 +44,13 @@ __Madison County Fire Department Analyst__
 
 - What we were able to deliver was an interactive map with all of the roads and fire hydrants in Madison County and create an algorithm to click anywhere on the map of where a potential fire could be or be able to type in an address, and calculate the distance in miles to the fire and how many gallons of water they can deliver.
 
+## Math Department Lab Assisstant
+`April 2021 - July 2021`
+
+__Data Science Lab Assisstant/TA__
+
+- R and Python
+- Was a TA for my python course and also assissted in lab to help students with their assignments in classes using R or Python
 
 ## Straight Line Yard Care
 `Jan 2020 – Apr 2020 `
